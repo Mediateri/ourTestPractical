@@ -1,24 +1,12 @@
-# README
+# Team Development Task
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is our first project as a team
 
-Things you may want to cover:
+Team Members:
 
-* Ruby version
+* Mediateur
 
-* System dependencies
+* Peter Yves
 
-* Configuration
+* Ibrahim 
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
